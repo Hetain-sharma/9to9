@@ -14,16 +14,6 @@ import UpSkilling from './HomePageComponents/upSkills/UpSkilling';
 import YourChild from './HomePageComponents/YourChild/YourChild';
 import EventsCard from './HomePageComponents/EventsAndActivities/EventsCard';
 
-// import {SchoolTypeSection} from './schoolTypeSection/SchoolTypeSection';
-// import {FeaturedServices} from './featuredServices/FeaturedServices';
-// import AgeSection from './ageSection/AgeSection';
-// import EventsCard from './EventsAndActivities/EventsCard';
-// import QuizCard from '../Quiz/QuizCard';
-// import SkillCard from './Learning/SkillCard';
-// import SkillPage from '../LifeSkills/skillPage';
-// import Banner from './banner/Banner';
-// import UpSkilling from './upSkills/UpSkilling';
-// import YourChild from './YourChild/YourChild';
 const HomePage = () => {
   return (
     <SafeAreaView style={{flex: 1}}>

@@ -36,6 +36,7 @@ const Header = () => {
               fontWeight: 600,
               lineHeight: 22,
               marginBottom: 2,
+              // fontFamily: 'Poppins-Regular'
             }}>
             Good Evening
           </Text>
