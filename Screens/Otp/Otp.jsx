@@ -27,7 +27,6 @@ const Otp = ({navigation}) => {
         </Text>
       </View>
 
-      {/* OTP Input Section */}
       <View style={styles.otpContainer}>
         <TextInput
           style={styles.otpBox}
@@ -77,6 +76,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     paddingTop: 20,
     paddingHorizontal: 20,
+    justifyContent: 'space-evenly',
   },
   imageContainer: {
     alignItems: 'center',
